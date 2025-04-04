@@ -1,4 +1,4 @@
-# DIY Vibrotactile Vibrating Parkinsons Glove (Neckbuild Buzzah Design)
+# DIY Vibrotactile Parkinsons Glove (Neckbuild Buzzah Design)
 
 This design makes use of Kris Wilk's Buzzah electronics design to drive LRA based tactors.  There are two things new in this build that add to Kris's design: 
 
